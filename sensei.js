@@ -11,7 +11,7 @@ class Sensei extends Ninja{
     }
     speakWisdom() {
         const sensei = super.drinkSake();
-        console.log(sensei)
+        // console.log(sensei)
         console.log('One must break many codes in the process to becoming a good developer.')
     }
     sayName() {
